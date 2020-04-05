@@ -70,6 +70,7 @@ namespace cash_counter
                 return itome;
             }
         }
+        //display array
         public void display()
         {
             while (front != rear)
